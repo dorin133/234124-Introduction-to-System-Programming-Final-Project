@@ -1,5 +1,7 @@
 # 234124-Introduction-to-System-Programming-Final-Project
 
+Exercise's instructions included in this repostory
+
 ### main shell for batch and interactive mode for a Graph Calculator
 
 - 15 feature for graphs including: C'tor, CC'tor, D'tor, operator=, operator+, operator! etc.
