@@ -1,6 +1,6 @@
 # 234124-Introduction-to-System-Programming-Final-Project
 
-Exercise's instructions included in this repostory
+Exercise's instructions included in this repostory under the name 'MATAM_2019-20_final_project_INSTRUCTIONS'
 
 ### main shell for batch and interactive mode for a Graph Calculator
 
